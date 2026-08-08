@@ -1,0 +1,7 @@
+{
+ "frozen_gameweeks": 0,
+ "scored_gameweeks": 0,
+ "weeks": [],
+ "all_time": null,
+ "note": "Built only from predictions frozen before each deadline. Nothing here is recomputed with hindsight, and no gameweek is excluded."
+}
